@@ -1,3 +1,11 @@
 __tests__
 test
+example
 .babelrc
+.eslintrc.js
+.eslintignore
+.travis.yml
+.yarnclean
+format.sh
+run-example.sh
+CONTRIBUTING.md
